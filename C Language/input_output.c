@@ -10,5 +10,35 @@
 - ✅ All function names must be **unique**
 - ✅ If there is only one function, its name must be `main()`
 - ✅ If there are multiple functions, **one must be `main()`**
+- ✅ You can write **declaration statements** inside a function or outside all functions  
+- ✅ Difference between **Local variables** and **Global variables**  
+- ✅ **Action statements** can exist only inside functions  
+- ✅ C is a **case-sensitive language**
+
+```c
+int a;   // lowercase variable
+A = 5;   // ❌ error (uppercase is different variable)
 
 */
+
+
+/*
+# Output Instruction
+
+**`printf()` → predefined function**
+
+- `printf()` is used to print some text on the monitor.
+
+```c
+printf("Hello");
+
+** You can call a function any number of times.
+** But can define only once.
+*/
+
+#include<stdio.h>
+int main()
+{
+
+    return 0;
+}
