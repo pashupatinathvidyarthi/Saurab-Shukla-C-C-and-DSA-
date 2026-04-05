@@ -120,3 +120,22 @@ int main()
     printf("%.2f",k);
     return 0;
 }
+
+
+
+/*
+
+Write printf statements to print the following on the screen.
+
+Consider:
+int a = 5, b = 6;
+
+1) 5 6
+2) a = 5 and b = 6
+3) a = 6 & b = 5
+4) value of a is 5 and value of b is 6
+5) sum of 5 and 6 is 11
+6) 5 + 6 = 11
+
+*/
+
