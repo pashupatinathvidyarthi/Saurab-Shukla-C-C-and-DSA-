@@ -32,3 +32,25 @@ int main()
 
 
 //Question 04
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+    system("cls");
+    printf("\\n");
+    return 0;
+}
+
+
+//Question 05
+#include<stdio.h>
+#include<Stdlib.h>
+int main()
+{
+    system("cls");
+    printf("\\r");
+    return 0;
+}
+
+
+//Question 06

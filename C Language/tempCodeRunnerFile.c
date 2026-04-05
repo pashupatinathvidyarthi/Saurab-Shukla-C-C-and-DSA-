@@ -1,9 +1,9 @@
-//Question 03
+//Question 05
 #include<stdio.h>
-#include<stdlib.h>
+#include<Stdlib.h>
 int main()
 {
     system("cls");
-    printf("\"MysirG\"");
+    printf("\\r");
     return 0;
 }
