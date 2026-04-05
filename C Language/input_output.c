@@ -49,6 +49,12 @@ int main()
 // gcc -std=c11 -o filename filename.c
 
 
+
+
+/*
+Write a program to print "welcome students" on the screen.
+Print "welcome" on the first line and "students" on the second line.
+*/
 #include<stdio.h>
 #include<stdlib.h>
 int main()
@@ -57,3 +63,5 @@ int main()
     printf("Welcome\nStudents");
     return 0;
 }
+
+
