@@ -44,3 +44,16 @@ int main()
     printf("Welcome");
     return 0;
 }
+
+//To compile with particular version of compiler usse below code
+// gcc -std=c11 -o filename filename.c
+
+
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+    system("cls");
+    printf("Welcome\nStudents");
+    return 0;
+}

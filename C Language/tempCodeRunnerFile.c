@@ -3,6 +3,6 @@
 int main()
 {
     system("cls");
-    printf("Welcome");
+    printf("Welcome\nStudents");
     return 0;
 }
