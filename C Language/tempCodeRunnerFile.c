@@ -1,12 +1,12 @@
-//Question 07
+//Question 08
 #include<stdio.h>
-#include<stdlib.h>
+#include<Stdlib.h>
 int main()
 {
     system("cls");
-    int num1,num2;
-    printf("Enter two number to get there sum\n");
-    scanf("%d%d",&num1,num2);
-    printf("Sum of %d and %d is %d",num1,num2,num1+num2);
+    int num;
+    printf("Enter a number to get square of it\n");
+    scanf("%d",&num);
+    printf("Square of %d is %d",num,num*num);
     return 0;
 }
