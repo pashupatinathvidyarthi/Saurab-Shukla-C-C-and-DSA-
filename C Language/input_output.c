@@ -156,3 +156,20 @@ int main()
     printf("%d + %d = %d",num1,num2,num1+num2);
     return 0;
 }
+
+
+
+/*
+
+## ⌨️ scanf() in C
+
+- 🔹 `scanf()` is a **predefined function**
+- 🔹 Used to **take input from user**
+- 🔹 `&` is used to pass the **address of variable**
+
+### Example:
+
+```c
+scanf("%d", &a);
+
+*/
