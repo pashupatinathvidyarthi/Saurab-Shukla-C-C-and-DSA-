@@ -10,3 +10,25 @@ int main()
 
 
 //Question 02
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+    system("cls");
+    printf("Hellon\nStudents");
+    return 0;
+}
+
+
+//Question 03
+#include<stdio.h>
+#include<stdlib.h>
+int main()
+{
+    system("cls");
+    printf("\"MysirG\"");
+    return 0;
+}
+
+
+//Question 04

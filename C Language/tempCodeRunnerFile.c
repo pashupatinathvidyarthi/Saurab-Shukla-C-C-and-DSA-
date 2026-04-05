@@ -1,9 +1,9 @@
-//Question 01
-#include<Stdio.h>
+//Question 03
+#include<stdio.h>
 #include<stdlib.h>
 int main()
 {
     system("cls");
-    printf("Hello Students");
+    printf("\"MysirG\"");
     return 0;
 }
