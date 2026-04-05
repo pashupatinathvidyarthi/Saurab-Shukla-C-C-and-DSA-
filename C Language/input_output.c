@@ -65,3 +65,19 @@ int main()
 }
 
 
+/*
+
+## 🔤 Escape Sequences in C
+
+| Escape Sequence | Meaning            |
+|----------------|--------------------|
+| `\n`           | New line           |
+| `\t`           | Tab space          |
+| `\b`           | Backspace          |
+| `\r`           | Carriage return    |
+| `\f`           | Form feed          |
+| `\\`           | Print backslash \  |
+| `\"`           | Print double quote |
+| `\'`           | Print single quote |
+
+*/
