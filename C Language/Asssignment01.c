@@ -76,3 +76,14 @@ int main()
     printf("Sum of %d and %d is %d",num1,num2,num1+num2);
     return 0;
 }
+
+
+//Question 08
+#include<stdio.h>
+#include<Stdlib.h>
+int main()
+{
+    system("cls");
+    
+    return 0;
+}
