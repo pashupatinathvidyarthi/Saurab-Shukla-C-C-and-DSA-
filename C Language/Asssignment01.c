@@ -90,3 +90,6 @@ int main()
     printf("Square of %d is %d",num,num*num);
     return 0;
 }
+
+
+//Question 09
